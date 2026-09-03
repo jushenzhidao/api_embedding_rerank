@@ -1,0 +1,5 @@
+# 忽略构建产物
+*.exe
+rerank-gateway
+mock-upstream
+/bin/
